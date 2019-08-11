@@ -1,6 +1,6 @@
 {
-    "name": "avalon/payment",
-    "description": "Avalon Payment Library",
+    "name": "superavalon/payment",
+    "description": "SuperAvalon Payment Library",
     "type": "library",
     "require": {
         "php": "~7.1.0",
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "think2017",
-            "email": "think2017@gmail.com"
+            "name": "SuperAvalon",
+            "email": "superavalon91@gmail.com"
         }
     ],
     "minimum-stability": "dev"

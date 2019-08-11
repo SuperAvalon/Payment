@@ -1,5 +1,5 @@
 <?php
-namespace Avalon\Payment;
+namespace SuperAvalon\Payment;
 
 class Payment
 {
