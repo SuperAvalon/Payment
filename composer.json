@@ -1,0 +1,17 @@
+{
+    "name": "avalon/payment",
+    "description": "Avalon Payment Library",
+    "type": "library",
+    "require": {
+        "php": "~7.1.0",
+        "laravel/framework": "~5.8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "think2017",
+            "email": "think2017@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
